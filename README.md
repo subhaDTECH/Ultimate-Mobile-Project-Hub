@@ -17,7 +17,7 @@ If you're new to open source or eager to contribute, follow these steps to get s
 1. **Fork this Repository:** Click the "Fork" button in the top-right corner to create your copy of this repository.
 2. **Clone the Repository:** Clone the forked repository to your local machine using Git:
    ```bash
-   git clone https://github.com/your-username/open-source-repo.git
+   git clone https://github.com/subhaDTECH/Ultimate-Mobile-Project-Hub.git
 Explore Projects: Browse through the available projects within this repository. Each project will have its own guidelines and instructions for contribution.
 Contribute: Select a project that interests you, follow the provided contribution guidelines, and start contributing! You can fix bugs, add new features, improve documentation, or work on issues labeled for beginners.
 Adding Your Project
